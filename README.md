@@ -31,8 +31,8 @@ High-level breakdown of Epics, progress tracking, and Sprint 1 scheduling.
 
 ### 2. Active Sprint Board
 Kanban workflow tracking (`To Do`, `In working`, `Done`) with Epic labels, priority indicators, and visual blocker flags.
-![Board](Screenshots/Kickoff_Aurelia_Retail-Board.png)
+![Board](Kickoff_Aurelia_Retail-Board.png)
 
 ### 3. Product Backlog & Epic Panel
 Prioritized Sprint 1 backlog, Epic completion bars, and future backlog items separated to prevent scope creep.
-![Backlog](Screenshots/Kickoff_Aurelia_Retail-Backlog.png)
+![Backlog](Kickoff_Aurelia_Retail-Backlog.png)
