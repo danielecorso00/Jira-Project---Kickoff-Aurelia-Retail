@@ -27,12 +27,12 @@ The project scope was organized into **3 core Epics** to align technical executi
 
 ### 1. Roadmap & Epic Timeline
 High-level breakdown of Epics, progress tracking, and Sprint 1 scheduling.
-![Timeline](Screenshots/Kickoff%20Aurelia%20Retail%20-%20Timeline.png)
+![Timeline](Screenshots/Kickoff_Aurelia_Retail-Timeline.png)
 
 ### 2. Active Sprint Board
 Kanban workflow tracking (`To Do`, `In working`, `Done`) with Epic labels, priority indicators, and visual blocker flags.
-![Board](Screenshots/Kickoff%20Aurelia%20Retail%20-%20Board.png)
+![Board](Screenshots/Kickoff_Aurelia_Retail-Board.png)
 
 ### 3. Product Backlog & Epic Panel
 Prioritized Sprint 1 backlog, Epic completion bars, and future backlog items separated to prevent scope creep.
-![Backlog](Screenshots/Kickoff%20Aurelia%20Retail%20-%20Backlog.png)
+![Backlog](Screenshots/Kickoff_Aurelia_Retail-Backlog.png)
